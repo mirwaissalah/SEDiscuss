@@ -16,3 +16,4 @@ public class Discussion{
         return  avg;
     }
 }
+// This is a comment from Abdul Salam Faiq
