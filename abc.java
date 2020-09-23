@@ -1,4 +1,6 @@
 //Second edit
+// the previous one was first edit i got mistaken
+import java.util.Scanner;
 public class Discussion{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
